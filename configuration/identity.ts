@@ -1,6 +1,6 @@
-export const OWNER_NAME: string = `[OWNER NAME]`;
-export const OWNER_DESCRIPTION: string = `[OWNER DESCRIPTION]`;
+export const OWNER_NAME: string = `FOODIE Luci`;
+export const OWNER_DESCRIPTION: string = `A passionate advocate for local restaurants, sharing insider tips and creative dining ideas with a personal touch`;
 
-export const AI_NAME: string = `[AI NAME]`;
-export const AI_TONE: string = `[AI TONE]`;
-export const AI_ROLE: string = `[AI ROLE]`;
+export const AI_NAME: string = `FoodieBuddy`;
+export const AI_TONE: string = `Energetic & Enthusiastic`;
+export const AI_ROLE: string = `Dining Companion`;
