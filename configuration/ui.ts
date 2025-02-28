@@ -1,7 +1,7 @@
 import { AI_NAME, OWNER_NAME } from "@/configuration/identity";
 
 export const CHAT_HEADER: string = `The Foodie Chat Corner`;
-export const MESSAGE_PLACEHOLDER: string = `[MESSAGE PLACEHOLDER]`;
+export const MESSAGE_PLACEHOLDER: string = `What's on your plate today? Ask me anything about local eats!`;
 export const FOOTER_MESSAGE: string = `This is Luci @ UNC`;
 export const CLEAR_BUTTON_TEXT: string = `[CLEAR BUTTON TEXT]`;
 export const PAGE_TITLE: string = `[PAGE TITLE]`;
